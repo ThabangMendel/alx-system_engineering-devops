@@ -8,3 +8,4 @@
 ## 5-listfilesdigitonly: Display current directory contents in - Long format,with user and group IDs displayed numerically,And hidden files (starting with .)
 ## 6-Welcome: Creates a directory named my_first_directory in the /tmp/ directory.
 ## 7-movethatfile: Moves the file betty from /tmp/ to /tmp/my_first_directory.
+## 8-firstdelete: Deletes the file betty. in /tmp/my_first_directory folder.
