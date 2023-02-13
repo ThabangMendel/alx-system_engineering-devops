@@ -2,4 +2,5 @@
 
 ## 0-hello_world: Writes a script that prints “Hello, World”, followed by a new line to the standard output.
 ## 1-confused_smiley: Writes a script that displays a confused smiley "(Ôo)' .
-## 2-hellofile: Displays the content of the /etc/passwd file.
+## 2-hellofile: Displays the contents of the /etc/passwd file.
+## 3-twofiles: Displays the contents of /etc/passwd and /etc/hosts.
